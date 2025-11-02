@@ -25,7 +25,7 @@ This project focuses on combining HTML for structure and CSS for presentation to
 ```bash
    git clone https://github.com/vednav9/nibodh-internship-assignment-of-html-and-css.git
 ```
-2. Open ```index.html``` in your web browser.
+2. Open ```Assignment of Html and Css.html``` in your web browser.
 
 ## Preview
 
